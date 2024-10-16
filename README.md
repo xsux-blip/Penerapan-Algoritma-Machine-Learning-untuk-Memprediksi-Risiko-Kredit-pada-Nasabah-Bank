@@ -1,0 +1,1 @@
+# Penerapan-Algoritma-Random-Forest-untuk-Memprediksi-Risiko-Kredit-pada-Nasabah-Bank
